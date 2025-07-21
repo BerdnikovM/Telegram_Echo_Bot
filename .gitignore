@@ -5,7 +5,4 @@
 __pycache__/
 *.pyc
 
-# Конфиденциальные файлы
-config.py
-users.txt
-.env
+
