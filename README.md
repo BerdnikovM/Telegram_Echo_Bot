@@ -9,8 +9,8 @@
 </p>
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/mihailberd/telegram_echo_bot)](https://hub.docker.com/r/mihailberd/telegram_echo_bot)
-[![Deploy to Render](https://img.shields.io/badge/Render-Deploy-blue?logo=render)](https://render.com)
-[![License](https://img.shields.io/github/license/your_user/echo-bot)](LICENSE)
+[![Deploy to Render](https://img.shields.io/badge/Render-Deploy-blue?logo=render)](https://render.com/deploy?repo=https://github.com/BerdnikovM/Telegram_Echo_Bot)
+[![License](https://img.shields.io/github/license/mihailberd/telegram_echo_bot)](LICENSE)
 
 ---
 
